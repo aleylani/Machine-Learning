@@ -6,7 +6,7 @@
 
 - [Bad Data Means Bad Models!](https://www.youtube.com/watch?v=IHr81Z2tGZ4)
 - [How bad data keeps us from good AI](https://www.youtube.com/watch?v=WSteyxgQqRc)
-- [Linear Regression](https://www.youtube.com/watch?v=feDJkDaNuOk)
+- [Scikit-Learn Linear Regression](https://www.youtube.com/watch?v=feDJkDaNuOk)
 - [K-fold Cross Validation](https://www.youtube.com/watch?v=hoNpvry0370)
 
 # Readings
