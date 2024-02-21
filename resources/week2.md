@@ -13,3 +13,4 @@
 
 - [What is bad data 1](https://www.datacamp.com/blog/10-signs-bad-data-quality)
 - [What is bad data 2](https://atlan.com/what-is-bad-data/#what-is-bad-data)
+- [One Hot Encoding](https://www.geeksforgeeks.org/ml-one-hot-encoding-of-datasets-in-python/)
