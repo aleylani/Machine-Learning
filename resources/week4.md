@@ -12,3 +12,6 @@
 
 - [Decision Trees Regression & Classification](https://towardsdatascience.com/how-decision-trees-split-nodes-from-loss-function-perspective-60a2f2124b4e)
 - [Random Forest](https://www.analyticsvidhya.com/blog/2021/06/understanding-random-forest/)
+
+- [Ensamble Models](https://towardsdatascience.com/ensemble-models-5a62d4f4cb0c)
+- [Hyperparameter Tuning](https://www.jeremyjordan.me/hyperparameter-tuning/)
