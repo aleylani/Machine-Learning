@@ -17,3 +17,4 @@
 - [Ensamble Models](https://towardsdatascience.com/ensemble-models-5a62d4f4cb0c)
 - [Hyperparameter Tuning](https://www.jeremyjordan.me/hyperparameter-tuning/)
 - [Hyperparameter Tuning 2](https://www.mygreatlearning.com/blog/gridsearchcv/)
+- [Adaboost](https://www.almabetter.com/bytes/tutorials/data-science/adaboost-algorithm)
