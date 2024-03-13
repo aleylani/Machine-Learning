@@ -1,4 +1,4 @@
-# Week 3 - Resurser
+# Week 4 - Resurser
 
 [Back to main page :house:](https://github.com/aleylani/machine-learning)
 
