@@ -18,6 +18,7 @@
 - [Naive Bayes Classifier](https://www.analyticsvidhya.com/blog/2017/09/naive-bayes-explained/)
 - [Unsupervised Learning](https://www.datacamp.com/blog/introduction-to-unsupervised-learning)
 - [Interpretable Machine Learning](https://christophm.github.io/interpretable-ml-book/)
- -[Explainable Boosting Machines](https://interpret.ml/docs/ebm.html)
+- [Explainable Boosting Machines](https://interpret.ml/docs/ebm.html)
 - [Handling Imbalanced Datasets](https://www.analyticsvidhya.com/blog/2021/06/5-techniques-to-handle-imbalanced-data-for-a-classification-problem/)
+- [SMOTE](https://pub.aimind.so/synthetic-minority-over-sampling-technique-smote-empowering-ai-through-imbalanced-data-handling-d86f4de32ea3)
 - [ROC Curve Explained](https://www.evidentlyai.com/classification-metrics/explain-roc-curve)
